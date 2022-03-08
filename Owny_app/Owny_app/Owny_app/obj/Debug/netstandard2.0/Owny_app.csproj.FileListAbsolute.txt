@@ -1,0 +1,40 @@
+\\str01.bk.prodrive.nl\userdata$\matdel\My Documents\Personal\Owny\Owny_app\Owny_app\Owny_app\bin\Debug\netstandard2.0\Owny_app.deps.json
+\\str01.bk.prodrive.nl\userdata$\matdel\My Documents\Personal\Owny\Owny_app\Owny_app\Owny_app\bin\Debug\netstandard2.0\Owny_app.dll
+\\str01.bk.prodrive.nl\userdata$\matdel\My Documents\Personal\Owny\Owny_app\Owny_app\Owny_app\bin\Debug\netstandard2.0\Owny_app.pdb
+\\str01.bk.prodrive.nl\userdata$\matdel\My Documents\Personal\Owny\Owny_app\Owny_app\Owny_app\obj\Debug\netstandard2.0\Owny_app.csproj.AssemblyReference.cache
+\\str01.bk.prodrive.nl\userdata$\matdel\My Documents\Personal\Owny\Owny_app\Owny_app\Owny_app\obj\Debug\netstandard2.0\Owny_app.GeneratedMSBuildEditorConfig.editorconfig
+\\str01.bk.prodrive.nl\userdata$\matdel\My Documents\Personal\Owny\Owny_app\Owny_app\Owny_app\obj\Debug\netstandard2.0\App.xaml.g.cs
+\\str01.bk.prodrive.nl\userdata$\matdel\My Documents\Personal\Owny\Owny_app\Owny_app\Owny_app\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+\\str01.bk.prodrive.nl\userdata$\matdel\My Documents\Personal\Owny\Owny_app\Owny_app\Owny_app\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+\\str01.bk.prodrive.nl\userdata$\matdel\My Documents\Personal\Owny\Owny_app\Owny_app\Owny_app\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+\\str01.bk.prodrive.nl\userdata$\matdel\My Documents\Personal\Owny\Owny_app\Owny_app\Owny_app\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+\\str01.bk.prodrive.nl\userdata$\matdel\My Documents\Personal\Owny\Owny_app\Owny_app\Owny_app\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+\\str01.bk.prodrive.nl\userdata$\matdel\My Documents\Personal\Owny\Owny_app\Owny_app\Owny_app\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+\\str01.bk.prodrive.nl\userdata$\matdel\My Documents\Personal\Owny\Owny_app\Owny_app\Owny_app\obj\Debug\netstandard2.0\Owny_app.AssemblyInfoInputs.cache
+\\str01.bk.prodrive.nl\userdata$\matdel\My Documents\Personal\Owny\Owny_app\Owny_app\Owny_app\obj\Debug\netstandard2.0\Owny_app.AssemblyInfo.cs
+\\str01.bk.prodrive.nl\userdata$\matdel\My Documents\Personal\Owny\Owny_app\Owny_app\Owny_app\obj\Debug\netstandard2.0\Owny_app.csproj.CoreCompileInputs.cache
+\\str01.bk.prodrive.nl\userdata$\matdel\My Documents\Personal\Owny\Owny_app\Owny_app\Owny_app\obj\Debug\netstandard2.0\XamlC.stamp
+\\str01.bk.prodrive.nl\userdata$\matdel\My Documents\Personal\Owny\Owny_app\Owny_app\Owny_app\obj\Debug\netstandard2.0\Owny_app.dll
+\\str01.bk.prodrive.nl\userdata$\matdel\My Documents\Personal\Owny\Owny_app\Owny_app\Owny_app\obj\Debug\netstandard2.0\refint\Owny_app.dll
+\\str01.bk.prodrive.nl\userdata$\matdel\My Documents\Personal\Owny\Owny_app\Owny_app\Owny_app\obj\Debug\netstandard2.0\Owny_app.pdb
+\\str01.bk.prodrive.nl\userdata$\matdel\My Documents\Personal\Owny\Owny_app\Owny_app\Owny_app\obj\Debug\netstandard2.0\ref\Owny_app.dll
+C:\Users\matdel\Personal\Owny\Owny_app\Owny_app\Owny_app\bin\Debug\netstandard2.0\Owny_app.deps.json
+C:\Users\matdel\Personal\Owny\Owny_app\Owny_app\Owny_app\bin\Debug\netstandard2.0\Owny_app.dll
+C:\Users\matdel\Personal\Owny\Owny_app\Owny_app\Owny_app\bin\Debug\netstandard2.0\Owny_app.pdb
+C:\Users\matdel\Personal\Owny\Owny_app\Owny_app\Owny_app\obj\Debug\netstandard2.0\Owny_app.csproj.AssemblyReference.cache
+C:\Users\matdel\Personal\Owny\Owny_app\Owny_app\Owny_app\obj\Debug\netstandard2.0\Owny_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matdel\Personal\Owny\Owny_app\Owny_app\Owny_app\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\matdel\Personal\Owny\Owny_app\Owny_app\Owny_app\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\matdel\Personal\Owny\Owny_app\Owny_app\Owny_app\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\matdel\Personal\Owny\Owny_app\Owny_app\Owny_app\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\matdel\Personal\Owny\Owny_app\Owny_app\Owny_app\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\matdel\Personal\Owny\Owny_app\Owny_app\Owny_app\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\matdel\Personal\Owny\Owny_app\Owny_app\Owny_app\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\matdel\Personal\Owny\Owny_app\Owny_app\Owny_app\obj\Debug\netstandard2.0\Owny_app.AssemblyInfoInputs.cache
+C:\Users\matdel\Personal\Owny\Owny_app\Owny_app\Owny_app\obj\Debug\netstandard2.0\Owny_app.AssemblyInfo.cs
+C:\Users\matdel\Personal\Owny\Owny_app\Owny_app\Owny_app\obj\Debug\netstandard2.0\Owny_app.csproj.CoreCompileInputs.cache
+C:\Users\matdel\Personal\Owny\Owny_app\Owny_app\Owny_app\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\matdel\Personal\Owny\Owny_app\Owny_app\Owny_app\obj\Debug\netstandard2.0\Owny_app.dll
+C:\Users\matdel\Personal\Owny\Owny_app\Owny_app\Owny_app\obj\Debug\netstandard2.0\refint\Owny_app.dll
+C:\Users\matdel\Personal\Owny\Owny_app\Owny_app\Owny_app\obj\Debug\netstandard2.0\Owny_app.pdb
+C:\Users\matdel\Personal\Owny\Owny_app\Owny_app\Owny_app\obj\Debug\netstandard2.0\ref\Owny_app.dll
