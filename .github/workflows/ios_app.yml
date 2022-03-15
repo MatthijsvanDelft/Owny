@@ -13,6 +13,9 @@ jobs:
       run: |
         $VM_ASSETS/select-xamarin-sdk-v2.sh --mono=6.12 --ios=15.4
     
+    - uses: maxim-lobanov/setup-xcode@v1
+      with:
+        xcode-version: '12.3'
     - name: Set default Xcode 12.3
       run: |
         XCODE_ROOT=/Applications/Xcode_12.3.0.app
