@@ -22,4 +22,4 @@ jobs:
       run: nuget restore ./Owny_app/Owny_app.sln
 
     - name: Build
-      run: msbuild ./Owny_app/Owny_app/Owny_app/Owny_app.csproj /t:PackageForAndroid /p:Configuration=Debug
+      run: msbuild ./Owny_app/Owny_app/Owny_app.Android/Owny_app.Android.csproj /t:PackageForAndroid /p:Configuration=Debug
